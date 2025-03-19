@@ -1,0 +1,93 @@
+{
+  "pays": [
+    {
+      "nom": "Canada",
+      "description": "Le Canada est un pays d'Amérique du Nord. Par sa superficie (9 985 000 km² soit dix-huit fois celle de la France), il est le deuxième pays du monde en matière de taille, derrière la Russie et devant la Chine et les États-Unis (Alaska comprise). L'échelle des distances n'est pas la même qu'en Europe : par exemple, il faut 3 jours en voiture pour aller de Vancouver (dans l'ouest) à Toronto (dans l'est du pays), Toronto et les chutes du Niagara (éloignées de 150 km environ) peuvent être considérées comme proches à l'échelle du pays.",
+      "wiki": "https://fr.vikidia.org/wiki/Canada",
+      "Monnaie": "Dollar canadien",
+      "Indicatif téléphonique": "+1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png"
+    },
+
+    {
+      "nom": "Allemagne",
+      "description": "L'Allemagne (en allemand : Deutschland), en forme longue la République fédérale d'Allemagne (Bundesrepublik Deutschland ; BDR), abrégée en RFA, est l'un des principaux pays d'Europe centrale (et, selon certaines définitions, de l'Europe de l'Ouest) ainsi que l'un des États membres de l'Union européenne (UE) et de la zone euro.",
+      "wiki": "https://fr.vikidia.org/wiki/Allemagne",
+      "Monnaie": "Euro",
+      "Indicatif téléphonique": "+49",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png"
+    },
+
+    {
+      "nom": "Australie",
+      "description": "L'Australie (forme courante ; en anglais : Australia), ou Commonwealth d’Australie (forme officielle), est un État fédéral situé en Océanie, Sa capitale est Canberra. La langue officielle est l'anglais. La monnaie officielle est le dollar australien et sa devise est Avance, belle et juste Australie. C'est un pays très riche.",
+      "wiki": "https://fr.vikidia.org/wiki/Australie",
+      "Monnaie": "Dollar australien",
+      "Indicatif téléphonique": "+61",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/langfr-150px-Flag_of_Australia.svg.png"
+    },
+
+    {
+      "nom": "États-Unis",
+      "description": "Les États-Unis (forme courte et courante ; en anglais : United States), ou États-Unis d'Amérique (forme longue1, en anglais United States of America / « USA »), sont un pays transicontinental regroupant cinquante États et un district qui est Washington DC , la capitale et ne fait partie d'aucun des États fédérés (les États-Unis sont un État fédéral, comme l'Allemagne)2. Quarante-huit de ces cinquante États sont situés au sud du Canada et au nord du Mexique. L'Alaska est situé au nord-ouest du Canada. Hawaï est un archipel qui baigne l'océan Pacifique. La capitale est Washington DC et les habitants, appelés Américains depuis le xxe siècle, sont parfois appelés États-Uniens 3. Les États-Unis sont une grande puissance politique, militaire, économique et culturelle.",
+      "wiki": "https://fr.vikidia.org/wiki/%C3%89tats-Unis",
+      "Monnaie": "Dollar américain",
+      "Indicatif téléphonique": "+1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/1920px-Flag_of_the_United_States_%28Pantone%29.svg.png"
+    },
+
+    {
+      "nom": "Nouvelle-Zélande",
+      "description": "La Nouvelle-Zélande (en anglais : New Zealand ; en māori : Aotearoa1) est un pays situé dans le Sud-Ouest de l'océan Pacifique, à environ 1 452 km de la Nouvelle-Calédonie et à 1 595 km de l'île d'Anatom, au Vanuatu. Le continent australien se trouve à 1 645 km de l'île du Sud. Le pays est donc très isolé géographiquement.C'est un groupe de deux îles complètement à l'autre extrémité de la planète en se référant à l'Europe ; il y a environ 12 heures de décalage horaire. Sa capitale est Wellington mais sa plus grande ville est Auckland. La Nouvelle-Zélande est un pays très développé et prospère.",
+      "wiki": "https://fr.vikidia.org/wiki/Nouvelle-Z%C3%A9lande",
+      "Monnaie": "Dollar néo-zélandais",
+      "Indicatif téléphonique": "+64",
+      "image": "https://download.vikidia.org/vikidia/fr/images/thumb/8/84/Drapeau_de_la_Nouvelle-Zelande.svg/150px-Drapeau_de_la_Nouvelle-Zelande.svg.png"
+    },
+
+    {
+      "nom": "Royaume-Uni",
+      "description": "Le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, appelé également Royaume-Uni (en anglais : United Kingdom), est un État qui comprend l'Angleterre, l'Écosse, le pays de Galles (soit la Grande-Bretagne) et l'Irlande du Nord. Sa capitale et plus grande ville est Londres. Le Royaume-Uni fait partie du Commonwealth.",
+      "wiki": "https://fr.vikidia.org/wiki/Royaume-Uni",
+      "Monnaie": "Livre sterling",
+      "Indicatif téléphonique": "+44",
+      "image": "https://download.vikidia.org/vikidia/fr/images/thumb/6/6f/Drapeau_du_Royaume-Uni.svg/1920px-Drapeau_du_Royaume-Uni.svg.png"
+    },
+
+    {
+      "nom": "Japon",
+      "description": "Le Japon (en japonais : 日本) est un pays asiatique au large de la Russie et de la Corée dont la capitale est Tokyo. L'archipel japonais couvre 370 000 km2. Le Japon est aussi appelé « pays du soleil levant », parce qu'il se trouve sur un archipel  situé juste à l'est du centre géographique de l'Asie (le Xinjiang, en Chine). Pays montagneux, le Japon renferme de très nombreux volcans et est régulièrement secoué par des séismes.",
+      "wiki": "https://fr.vikidia.org/wiki/Japon",
+      "Monnaie": "Yen (¥)",
+      "Indicatif téléphonique": "+81",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langfr-150px-Flag_of_Japan.svg.png"
+    },
+
+    {
+      "nom": "Indonésie",
+      "description" : "L'Indonésie (forme courte ; en indonésien : Indonesia) ou République d'Indonésie (forme longue) est un pays dont le territoire est en partie en Asie et en Océanie, mais traditionnellement considéré comme un pays de l'Asie du Sud-Est. Il s'étend sur un archipel de plusieurs centaines d'îles, dont les principales sont Sumatra et Java. Sa capitale est Jakarta (au nord de Java) et ses habitants les Indonésiens.",
+      "wiki": "https://fr.vikidia.org/wiki/Indon%C3%A9sie",
+      "Monnaie": "Roupie indonésienne",
+      "Indicatif téléphonique": "+62",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/langfr-150px-Flag_of_Indonesia.svg.png"
+    },
+
+    {
+      "nom" : "Palestine",
+      "description" : "La Palestine, en forme longue l'État de Palestine (arabe : دولة فلسطين, Dawlat Filasṭīn), est un État souverain de jure (loi palestinienne). Située au Moyen-Orient, elle est présente sur les territoires palestiniens occupés et revendique Jérusalem-Est et l'entièreté de la Cisjordanie.",
+      "wiki": "https://fr.vikidia.org/wiki/Palestine_(%C3%89tat)",
+      "Monnaie": "Dinar",
+      "Indicatif téléphonique": "+970",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/165px-Flag_of_Palestine.svg.png"
+    },
+
+    {
+      "nom" : "Venezuela",
+      "description" : "Le Venezuela est un pays situé dans le sous-continent sud-américain et frontalier de la Colombie, du Brésil et de la Guyane. C'est un pays avec une grande biodiversité et riche en ressources naturelles. Le Venezuela est un pays situé sur le continent américain.",
+      "wiki": "https://fr.vikidia.org/wiki/Venezuela",
+      "Monnaie": "Bolivar vénézuélien",
+      "Indicatif téléphonique": "+58",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/langfr-150px-Flag_of_Venezuela_%28state%29.svg.png"
+    }
+  ]
+}
